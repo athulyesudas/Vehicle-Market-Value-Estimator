@@ -8,7 +8,7 @@ The used car market often suffers from information asymmetry, leading to unfair 
 It serves as a decision-support tool for:
 - **Sellers:** To set competitive market prices.
 - **Buyers:** To evaluate if a listing is overpriced.
-
+ 
 ### 🛠️ Tech Stack
 - **Core Logic:** Python, Scikit-Learn (Random Forest Regression)
 - **Data Processing:** Pandas, NumPy
