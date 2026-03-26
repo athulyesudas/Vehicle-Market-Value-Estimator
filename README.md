@@ -28,3 +28,4 @@ The model was trained on historical transaction data (`car data.csv`). During th
 ### App Interface
 
 ![alt text](https://github.com/athulyesudas/Car-Price-Prediction/blob/main/readme_assets/app_interface.png?raw=true)  
+
